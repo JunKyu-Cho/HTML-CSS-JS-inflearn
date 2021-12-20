@@ -1,0 +1,24 @@
+h1 {
+	font-size: 18px;
+	font-weight: 900;
+	color: rgb(50, 50, 50);
+	line-height: 30px;
+}
+
+th {
+	text-align: center;
+	font-size: 16px;
+	font-weight: 600;
+	color: rgb(51, 51, 176);
+}
+
+a, a:visited {
+	color: rgb(200, 200, 176);
+	text-decoration: none;	/* 밑줄: 제거 */
+	font-weight: 800;
+}
+
+img {
+	width: 100px;
+	height: auto;
+}
